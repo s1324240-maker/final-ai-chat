@@ -2,7 +2,7 @@
   "name": "aipro",
   "version": "1.0.0",
   "description": "Simple Chat App using Node.js",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
